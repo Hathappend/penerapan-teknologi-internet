@@ -70,7 +70,6 @@ $submit = $_POST['Hitung'];
 	//echo "<script>alert('Data OK')</script>";
 {
 
-
 if ($kode=="A01"){
 	$nama="Speaker";
 	$harga=50000;
